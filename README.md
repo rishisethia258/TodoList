@@ -13,3 +13,5 @@ This is a Todo list app.
 * JavaScript
 * jQuery
 
+Check out the Todo List [here](https://rishisethia258.github.io/TodoList/)
+
